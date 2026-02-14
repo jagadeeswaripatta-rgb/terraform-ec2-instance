@@ -8,6 +8,7 @@ systemctl start apache2
 
 systemctl enable apache2
 
-echo "<h1>Hi Jagadeeswari,Terraform Web Server Working"</h1> > /var/www/html/index.html
+echo "<h1>Hi Jagadeeswari, Terraform Web Server Working</h1>" > /var/www/html/index.html
+
 
 
